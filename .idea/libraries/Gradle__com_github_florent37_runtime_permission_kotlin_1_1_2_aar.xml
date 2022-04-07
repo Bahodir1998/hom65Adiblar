@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:runtime-permission-kotlin:1.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/7aa1d13c2df3f3b03a90882b74b211d3/transformed/jetified-runtime-permission-kotlin-1.1.2/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/5918a16432020f066b82430d56ddc720/transformed/jetified-runtime-permission-kotlin-1.1.2/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/5918a16432020f066b82430d56ddc720/transformed/jetified-runtime-permission-kotlin-1.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/5918a16432020f066b82430d56ddc720/transformed/jetified-runtime-permission-kotlin-1.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.2/caches/modules-2/files-2.1/com.github.florent37/runtime-permission-kotlin/1.1.2/5d781949be0a622a061588de87ad0fc8371ffc0e/runtime-permission-kotlin-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

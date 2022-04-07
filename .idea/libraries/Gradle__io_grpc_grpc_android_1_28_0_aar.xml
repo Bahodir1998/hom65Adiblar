@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.grpc:grpc-android:1.28.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/2b362c6ff4f237ece3f4965f3b94800c/transformed/jetified-grpc-android-1.28.0/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/d9ad80c8a735248459e370d82ff67e9d/transformed/jetified-grpc-android-1.28.0/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/d9ad80c8a735248459e370d82ff67e9d/transformed/jetified-grpc-android-1.28.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.2/caches/transforms-3/d9ad80c8a735248459e370d82ff67e9d/transformed/jetified-grpc-android-1.28.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.2/caches/modules-2/files-2.1/io.grpc/grpc-android/1.28.0/e7c3f4a90a5862818fc0ff52806ab2b2986bea67/grpc-android-1.28.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.2/caches/modules-2/files-2.1/io.grpc/grpc-android/1.28.0/64355636f33bb77e4e0677e3de8ba7a48d6a74d/grpc-android-1.28.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

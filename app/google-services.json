@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525334481831",
+    "project_id": "adiblar-c26c5",
+    "storage_bucket": "adiblar-c26c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525334481831:android:334d065443ec5c98628482",
+        "android_client_info": {
+          "package_name": "com.example.hom65adiblar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525334481831-fstikmlh8d7bquqksuaqqt3i1uhcqpn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPYDERTmyPk4EajTTS-vqn5l0TjegtLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525334481831-fstikmlh8d7bquqksuaqqt3i1uhcqpn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
